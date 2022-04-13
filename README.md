@@ -1,6 +1,6 @@
 # AustraliaStatesWebView
 
-**Web View In App **
+**Web View In App**
 
  > Features
  - View Websites of Australian States
